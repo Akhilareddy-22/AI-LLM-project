@@ -28,8 +28,7 @@ Google Generative AI (Gemini API)
 
 📦 Installation
 1️⃣ Clone the repository
-git clone https://github.com/your-username/ai-assistant.git
-cd ai-assistant
+git clone : https://akhilareddy-22.github.io/AI-LLM-project
 2️⃣ Install dependencies
 pip install streamlit google-generativeai
 🔑 Setup API Key
@@ -47,4 +46,13 @@ client = genai.Client(api_key="YOUR_API_KEY")
 ▶️ Run the App
 streamlit run project.py
 
-App will open in your browser.
+App will open in your br 
+output: http://localhost:8501
+
+
+
+
+
+
+
+owser.
